@@ -1,0 +1,35 @@
+header .menu .menu-sub .posi-tres a{
+  color: #009dae;
+}
+
+.cervicio h3{
+  text-align: center;
+  color: #009dae;
+}
+.cervicio .servi h4{
+  text-align: center;
+}
+
+.cervicio .servi .ortodoncia{
+  padding: 0px 45px 0px 40px;
+  text-align: center;
+}
+.cervicio .servi .ortodoncia img{
+  width: 400px;
+  border-radius: 10px;
+}
+.cervicio .servi .ortodoncia p{
+  padding: 0px 15px 0px 0px ;
+}
+
+.cervicio .servi .inplantes{
+  text-align: center;
+  padding: 0px 45px 25px 40px;
+}
+.cervicio .inplantes img{
+  width: 400px;
+  border-radius: 10px;
+}
+.cervicio .servi .inplantes p{
+  padding: 0px 15px 0px 0px ;
+}

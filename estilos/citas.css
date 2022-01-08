@@ -1,0 +1,18 @@
+.programar{
+  text-align: center;
+}
+header .menu .menu-sub .posi-dos a{
+  color: #009dae;
+}
+.programar .reserba h3{
+  color: #009dae;
+}
+.programar .reserba .plataformas{
+  padding: 20px 0px 20px 0px;
+}
+.programar .cita .plataformas a button{
+  border: none;
+  background-color: #ffe652;
+  padding: 10px;
+  border-radius: 15px;
+}

@@ -1,0 +1,54 @@
+/* cuerpo */
+.contenedor img {
+  width: 500px;
+  padding: 50px 0px 0px 50px;
+}
+.contenedor {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.descripcion p {
+  padding: 10px 55px 0px 0px;
+  margin: 0px 0px 30px 0px;
+}
+.descripcion h2 {
+  padding: 50px 55px 0px 0px;
+  color: #009dae;
+}
+.descripcion a {
+  background-color: #ffe652;
+  border-radius: 20px;
+  text-decoration: none;
+  padding: 13px;
+  justify-content: end;
+  color: black;
+}
+
+/* imformacion */
+.informacion {
+  display: flex;
+  padding: 50px 0px 25px 20px;
+  background-color: #C2FFF9;
+  border-radius: 100px;
+  margin: 50px ;
+}
+.informacion div a {
+  text-decoration: none;
+  color: #009dae;
+  font-size: 20px;
+}
+.informacion div {
+  padding: 20px;
+}
+.primera .revision{
+  text-align: center;
+}
+.primera h2{
+  text-align: center;
+  color: #009dae;
+  margin: 20px;
+
+}
+.primera .dato{
+margin: 20px;
+}

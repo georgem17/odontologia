@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  font-family: 'Open Sans',sans-serif;
+}
+
+
+/* header */
+header .menu img{
+  padding: 15px 0px 0px 70px;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+header .menu .menu-sub  li a {
+  text-decoration: none;
+  color: black;
+  padding: 39px 30px;
+  font-size: 17px;
+}
+header .menu .menu-sub {
+  list-style: none;
+  display: flex;
+  padding: 15px 40px 0px 0px ;
+}
+
+
+/* footer */
+footer div {
+  background-color: #009dae;
+  padding: 20px;
+  color: white;
+  font-size: 15px;
+}
+footer div a {
+  padding: 15px;
+}
